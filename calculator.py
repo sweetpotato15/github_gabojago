@@ -6,10 +6,14 @@ def subtract(a, b):
     return a-b
 
 def multiply(a, b):
-    pass
+    result = a * b 
+    return result
+
 
 def divide(a, b):
-    pass
+    result = a / b 
+    return result
+
 
 def pow(a, b):
     return a**b
