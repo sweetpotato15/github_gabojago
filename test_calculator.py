@@ -9,7 +9,7 @@ def test_subtract():
     pass
 
 def test_multiply():
-    pass
+    assert multiply (2, 3) == 6
 
 def test_divide():
-    pass
+    assert divide (2, 3) == 1.5

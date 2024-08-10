@@ -1,8 +1,8 @@
 def multiply(a, b):
     result = a * b 
-    print (result)
+    return result
 
 
 def divide(a, b):
     result = a / b 
-    print (result)
+    return result
