@@ -16,6 +16,9 @@ To run the tests, use `pytest`:
 ---
 ## 커밋 메세지 규칙
 
-![alt text](image.png)
+<img src="image.png">
+
+
+출처 : https://jane-aeiou.tistory.com/93
 
 ---
