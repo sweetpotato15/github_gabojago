@@ -16,8 +16,7 @@ To run the tests, use `pytest`:
 ---
 ## 커밋 메세지 규칙
 
-![image](./image/image.png)
-
+![](2024-08-10-11-24-59.png)
 
 출처 : https://jane-aeiou.tistory.com/93
 
