@@ -11,10 +11,10 @@ def test_subtract():
     assert subtract(-1, -1) == 0
 
 def test_multiply():
-    pass
+    assert multiply (2, 3) == 6
 
 def test_divide():
-    pass
+    assert divide (2, 3) == 1.5
 
 def test_pow():
     assert pow(2,3) == 8
@@ -23,4 +23,3 @@ def test_pow():
 def test_sqrt():
     assert sqrt(16,2) == 4
     assert sqrt(36,2) == 6
-
