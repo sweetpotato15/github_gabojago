@@ -16,7 +16,7 @@ To run the tests, use `pytest`:
 ---
 ## 커밋 메세지 규칙
 
-![](/image/image.png)
+![image](image/image.png)
 
 출처 : https://jane-aeiou.tistory.com/93
 
